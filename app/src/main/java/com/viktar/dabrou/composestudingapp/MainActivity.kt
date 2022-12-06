@@ -59,9 +59,7 @@ fun TimesTable() {
                             .border(width = 1.dp, color = Color.Gray),
                         contentAlignment = Alignment.Center
                     ) {
-
                         Text(text = "${i * j}")
-
                     }
                 }
             }
